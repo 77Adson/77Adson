@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Adrian Swatek!
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
-
 I'm a third-year **Applied Computer Science** student with a strong technical foundation from my **IT Technician** qualifications (EE.08 & EE.09). My journey as a programmer has just begun, and I’m constantly building my knowledge and skills in various programming languages and tools.
 
 ---
