@@ -1,51 +1,54 @@
-# 👋 Hello, I'm Adrian Swatek!
+# 👋 Hi, I'm Adrian
 
-I'm a third-year **Applied Computer Science** student with a strong technical foundation from my **IT Technician** qualifications (EE.08 & EE.09). My journey as a programmer has just begun, and I’m constantly building my knowledge and skills in various programming languages and tools.
-
----
-
-## 🚀 About Me
-
-- 🎓 **Education**: Third-year student of Applied Computer Science
-- 🛠 **Technical Qualifications**: IT Technician (EE.08 & EE.09)
-- 🌱 **Learning Path**: Currently enhancing my skills in software development, Unix systems, and web design.
-  
----
-
-## 🛠️ Skills
-
-Here’s a glimpse into my skill set:
-
-- **Languages**: HTML, CSS, C, C++, Python, JavaScript
-- **Tools**: Unix systems, Git, GitHub
+Third-year Computer Science student | IT Technician certified (EE.08/EE.09) | Building my developer skills
 
 ---
 
-## 💻 Tech Stack
+## 🔧 Technical Toolkit
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-4E9CAF?style=for-the-badge&logo=linux&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff5733?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23d433ff?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff5733?style=for-the-badge&logo=sql&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-%23505050?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23ffa200?style=for-the-badge&logo=firebase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23ff8b00?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 🏗 Recent Projects
+
+### [Flask REST API]
+- Built backend with SQLite for user management and messaging
+- Implemented WebSocket functionality with SocketIO
+
+### [Mobile Training Tracker]
+- Kotlin/Jetpack Compose app with Firebase integration
+- Features: User auth, real-time data sync, custom UI components
+
+### [Voice Cloning Experiment]
+- Implemented Tacotron2/WaveGlow models in Google Colab
+- Created Python utilities for audio processing
+
+---
+
+## 📚 Currently Learning
+- Software testing methodologies
+- Cloud computing fundamentals
+- Advanced algorithms
+
+---
+
+## 📊 GitHub Activity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=77Adson&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=77Adson&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Let's Connect
-
-Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-swatek-73a094320/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/77Adson)
-
----
-
-Thanks for stopping by! 😊
+## 🌱 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adrian-swatek-73a094320/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:swatekadrian0@gmail.com)
